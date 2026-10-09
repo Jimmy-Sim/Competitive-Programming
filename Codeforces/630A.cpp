@@ -1,0 +1,15 @@
+// Aug. 3, 2026
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    long long n;
+    cin >> n;
+
+    cout << 25 << '\n';
+
+    return 0;
+}
